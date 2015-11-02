@@ -37,5 +37,5 @@ int main()
 
 int doStuff(int x, int y)
 {
-	return x + y;
+	return x * y; //changed to multiply x and y
 }
