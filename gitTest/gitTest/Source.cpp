@@ -32,7 +32,7 @@ int main()
 	std::cin.get();
 	
 	std::cout<<"I think it works"<<endl;
-
+	std::cout<<"Yes it does" << endl;
 	return 0;
 
 }
