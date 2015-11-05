@@ -30,6 +30,8 @@ int main()
 
 
 	std::cin.get();
+	
+	std::cout<<"I think it works"<<endl;
 
 	return 0;
 
